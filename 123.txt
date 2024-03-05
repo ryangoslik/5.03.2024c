@@ -1,0 +1,11 @@
+Temat bibloteka PDO connect do bd
+MYSQL:
+-new sqli -połączenie za pomocą konstruktora klasy Mysqli
+-mysqli_connect - połączenie za pomocą funkcji
+
+-PDO- połączenie przez biblotekę za pomocą konstruktora klasy PDO
+      Mysql, Postgresql, SQLITE
+-ODBC
+-inne...
+- SQLITE
+- NOSQL
